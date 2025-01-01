@@ -4,8 +4,6 @@
 <br><br>
 <img width="400" src="https://lab.ssafy.com/s10-final/S10P31A508/-/raw/main/docs/logo.png">
 
-> https://k10a508.p.ssafy.io/
-
 ## 📅 진행 기간
 
 2024.04.11 ~ 2024.05.20
