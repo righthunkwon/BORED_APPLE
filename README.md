@@ -214,5 +214,3 @@ client
 ## 🎨 와이어프레임
 
 [와이어 프레임](https://www.figma.com/design/M3ctxc9hK3CKVki96xl8He/A508-Project?node-id=0-1&t=nVQpFUxc7wdfevD7-0)
-
-## 💻포팅 메뉴얼
